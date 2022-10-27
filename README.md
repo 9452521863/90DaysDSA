@@ -1,1 +1,3 @@
 # 90DaysDSA
+DAY 0- starting date 27/oct/2022 = reading c++ concepts...
+day 1- space and time complexity 
